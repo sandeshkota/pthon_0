@@ -1,5 +1,9 @@
 
-# Corrected code to remove users whose names contain the letter 'e'
+## List comprehension: 
+
+
+
+## Corrected code to remove users whose names contain the letter 'e'
 users = [ "alice", "bob", "charlie", "dean", "emma", "ellie" ]
 
 # doesn't work as we are modifying the list while iterating over it
